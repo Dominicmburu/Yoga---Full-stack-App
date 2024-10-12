@@ -1,0 +1,18 @@
+1. install express
+$ mkdir myapp
+$ cd myapp
+$ npm init -y
+entry point: (index.js)
+$ npm install express
+npm install -g nodemon
+
+
+install mongodb
+$ npm install mongodb
+
+
+// secure your password
+npm i dotenv
+
+//
+npm i cors
